@@ -34,7 +34,11 @@ Can be used for home automation, greenhouse monitoring, etc.
 
 ## 🎥 App Demo
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+
+https://github.com/user-attachments/assets/95fd4ac6-6243-432f-be1b-b70c44ddba82
+
+
 
 ## 🛠 Technologies Used
 
