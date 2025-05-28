@@ -1,13 +1,13 @@
 # 🌡️ Smart Temperature & Humidity Monitoring App
 
-![Screenshot 2025-05-28 142250](https://github.com/user-attachments/assets/d25d2651-401d-4d0e-a383-f60580671f62)
+![Screenshot 2025-05-28 142250](https://github.com/user-attachments/assets/d25d2651-401d-4d0e-a383-f60580671f62) 
+
+![Screenshot 2025-05-28 145229](https://github.com/user-attachments/assets/08b462bc-d23b-40d2-bd21-dcf6002a1333)
 
 An Android app for real-time temperature and humidity monitoring with remote LED control via Firebase. Perfect for smart home and IoT projects.
 
-<p align="center">
-  <img src="https://i.imgur.com/JKQ3W5v.png" alt="App Screenshot" width="300"/>
-  <img src="https://i.imgur.com/8m7X3Yj.png" alt="Firebase Database" width="300"/>
-</p>
+
+
 
 ## 🔥 Key Features
 1.Real-time Sensor Monitoring
