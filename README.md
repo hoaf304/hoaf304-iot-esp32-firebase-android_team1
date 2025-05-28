@@ -92,6 +92,3 @@ https://drive.google.com/file/d/1qwBcV7Qprr-AdJoaF2leR3sfZwoRu8I_/view?usp=shari
 - Firebase project with Realtime Database enabled
 - ESP32 board, LED, DHT22 sensor
 
-### Setup Instructions
-
-```bash
