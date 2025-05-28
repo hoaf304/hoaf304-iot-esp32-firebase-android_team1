@@ -95,5 +95,3 @@ https://drive.google.com/file/d/1qwBcV7Qprr-AdJoaF2leR3sfZwoRu8I_/view?usp=shari
 ### Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/smart-temp-humidity-app.git
-cd smart-temp-humidity-app
