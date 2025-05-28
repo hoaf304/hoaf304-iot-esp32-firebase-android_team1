@@ -1,8 +1,6 @@
 # 🌡️ Smart Temperature & Humidity Monitoring App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
-[![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-orange)](https://firebase.google.com)
+![Screenshot 2025-05-28 142250](https://github.com/user-attachments/assets/d25d2651-401d-4d0e-a383-f60580671f62)
 
 An Android app for real-time temperature and humidity monitoring with remote LED control via Firebase. Perfect for smart home and IoT projects.
 
@@ -20,7 +18,7 @@ An Android app for real-time temperature and humidity monitoring with remote LED
 
 ## 🎥 App Demo
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/6xiTYfp1Mbo)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ## 🛠 Technologies Used
 
