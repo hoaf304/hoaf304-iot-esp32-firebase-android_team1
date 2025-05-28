@@ -9,12 +9,28 @@ An Android app for real-time temperature and humidity monitoring with remote LED
   <img src="https://i.imgur.com/8m7X3Yj.png" alt="Firebase Database" width="300"/>
 </p>
 
-## ✨ Key Features
+## 🔥 Key Features
+Real-time Sensor Monitoring
 
-- 📊 Real-time temperature & humidity monitoring via ESP32 sensors
-- 💡 Remote LED on/off control through the app
-- ☁️ Firebase integration for cloud data synchronization
-- 🏠 Smart home ready - easily adaptable for IoT systems
+Reads temperature & humidity data (likely from DHT11/DHT22 sensor via Arduino/ESP8266/ESP32)
+
+Displays live updates in the Android app
+
+Remote LED Control
+
+Toggle LED status (ON/OFF) from the app
+
+Firebase acts as the cloud-based control hub
+
+Firebase Integration
+
+Realtime Database (for sensor data & LED state)
+
+Authentication (optional, for user login)
+
+Smart Home / IoT Use Case
+
+Can be used for home automation, greenhouse monitoring, etc.
 
 ## 🎥 App Demo
 
