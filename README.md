@@ -20,7 +20,7 @@ An Android app for real-time temperature and humidity monitoring with remote LED
 
 ## 🎥 App Demo
 
-[![Demo Video](https://imgur.com/XYZ123.jpg)]([https://youtu.be/XZl87-dAdTg?si=AB-KasloOCUd7sy5](https://youtu.be/6xiTYfp1Mbo))
+[![Demo Video](https://imgur.com/XYZ123.jpg)](vhttps://youtu.be/6xiTYfp1Mbo)
 
 ## 🛠 Technologies Used
 
