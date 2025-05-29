@@ -24,11 +24,11 @@ Ideal for smart home, greenhouse, or IoT-based automation systems.
 - Uses Firebase Realtime Database to sync sensor and LED data.  
 - Firebase Authentication (optional) for user access control.
   
-## 🎥 App Demo
-
-
-
+## 🎥 App Demo (Emulator)
 https://github.com/user-attachments/assets/95fd4ac6-6243-432f-be1b-b70c44ddba82
+
+## 🎥 Real Device Demo
+https://www.youtube.com/watch?v=5IYW368e-LM&feature=youtu.be
 
 ## 🛠️ Technologies Used
 
